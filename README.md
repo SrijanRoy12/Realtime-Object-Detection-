@@ -1,4 +1,92 @@
-**[TRY OUT THE DEPLOYED PROJECT](https://objectdetectionrealtime.streamlit.app/)**
+# 🚀 YOLOv8 Real-Time Object Detection App
+
+An interactive, real-time object detection app built with **YOLOv8**, **OpenCV**, **MediaPipe**, and **Streamlit**. Analyze objects from **images**, **videos**, or **live webcam feeds** — all within a modern, browser-based UI.
+
+![App Preview](<insert your image URL or screenshot path here>)
+
+---
+
+## 🔥 Features
+
+- 🖼️ Image, video, and webcam input support
+- ⚡ Real-time object detection using YOLOv8 (Ultralytics)
+- 🧠 Multiple model variants (n, s, m, l, x)
+- 🎛️ Adjustable confidence threshold
+- 🎯 Class filter to detect only selected objects
+- 🌐 Streamlit UI with a sleek dark theme
+- 🐱 Built-in Dev Assistant (yes, the cat 😸)
+
+---
+
+## 📦 Tech Stack
+
+- **Python**
+- **YOLOv8** (Ultralytics)
+- **OpenCV**
+- **MediaPipe**
+- **Streamlit**
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/yolov8-streamlit-app.git
+cd yolov8-streamlit-app
+pip install -r requirements.txt
+streamlit run app.py
+🎮 How to Use
+Launch the app with streamlit run app.py
+
+Choose a mode: Image / Video / Webcam
+
+Select the YOLOv8 model variant
+
+Set detection confidence threshold
+
+Choose object classes (optional)
+
+Upload input or enable webcam and start detecting!
+
+📸 Screenshots
+Home Page	Image Detection	Video Detection	Webcam Detection
+
+💡 Use Cases
+Security surveillance
+
+Smart webcams
+
+Interactive AI demos
+
+Educational & ML learning projects
+
+Realtime object monitoring
+
+🧠 Skills Demonstrated
+Computer Vision (YOLOv8, OpenCV)
+
+Deep Learning Model Integration
+
+Real-Time Video Processing
+
+Interactive Web UI (Streamlit)
+
+Python-Based Full Stack App Development
+
+🤝 Contributions
+Feel free to fork, improve, and suggest features via pull requests!
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+Ultralytics YOLOv8
+
+Streamlit
+
+MediaPipe
+
+OpenCV**[TRY OUT THE DEPLOYED PROJECT](https://objectdetectionrealtime.streamlit.app/)**
 
 # YOLOv8 Object Detection with Streamlit
 
